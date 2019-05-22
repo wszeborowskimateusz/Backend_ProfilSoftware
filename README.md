@@ -1,11 +1,11 @@
 ## Backend_ProfilSoftware
 
-#About a project
+# About a project
 This is a program that counts some statistics for matura exams in Poland.
 
 When you type a voivodeship name you need to type it beginning with a capital letter and polish characters
 
-#Parameters
+# Parameters
     -a, --avg voiv year
         Average amount of people that took an exam in a given voivodeship (voiv) and given year
 
